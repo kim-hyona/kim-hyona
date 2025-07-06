@@ -64,7 +64,7 @@ From anomaly detection to senior-friendly apps, I'm always excited to learn, gro
 
 ---
 
-✅ Projects (링크 포함)
+## ✅ Projects 
 Project	Description
 🩺 Breast Cancer Survival Prediction	Built an ML model using SVM + SHAP to predict survival of breast cancer patients based on SEER dataset.
 🔧 Industrial Fault Detection	Used Isolation Forest + SHAP + FFT to detect anomalies in Hitachi MIMII fan sound data. Achieved 0.9992 score.
