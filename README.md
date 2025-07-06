@@ -1,8 +1,9 @@
 
 
 <div align="center" style="padding-top: 10px;">
-  <img src="https://readme-typing-svg.vercel.app/?font=Indie+Flower&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;💻+Code+with+Love+and+Coffee+☕;🌸+AI%2FML+Lover+%26+Flutter+Dev+🌸;✨+Explore.+Create.+Inspire.+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Gloria+Hallelujah&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;🤖+ML+Enthusiast+%26+AI+Explorer;📊+Turning+Data+into+Insight+✨;☕+Caffeinated+Creativity+Always" alt="Typing SVG" />
 </div>
+
 
 
 
