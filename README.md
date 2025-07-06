@@ -64,6 +64,17 @@ From anomaly detection to senior-friendly apps, I'm always excited to learn, gro
 
 ---
 
+✅ Projects (링크 포함)
+Project	Description
+🩺 Breast Cancer Survival Prediction	Built an ML model using SVM + SHAP to predict survival of breast cancer patients based on SEER dataset.
+🔧 Industrial Fault Detection	Used Isolation Forest + SHAP + FFT to detect anomalies in Hitachi MIMII fan sound data. Achieved 0.9992 score.
+👵 SilverTouch App	Flutter app designed to monitor elderly daily activity & provide emergency features via Firebase and voice alerts.
+📷 Photoshop-like Tool	Implemented real-time filters (mosaic, sketch, cartoon) using OpenCV and Dlib facial landmarks in Python.
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kim-hyona&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyona&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
 ## 💌 Contact Me
 
 - 📧 [kim-hyona@github](mailto:kim-hyona@github.com)
