@@ -1,9 +1,9 @@
 
 
-
-<div align="center" style="padding-top: 40px;">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fredoka+One&size=38&pause=1000&color=FF69B4&center=true&width=850&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;🤖+ML+Enthusiast+%26+AI+Explorer;📊+Turning+Data+into+Insight+✨;☕+Caffeinated+Creativity+Always" alt="Typing SVG" />
+<div align="center" style="padding-top: 50px;">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fredoka+One&size=32&pause=1000&color=FF69B4&center=true&width=850&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;🤖+ML+Enthusiast+%26+AI+Explorer;📊+Turning+Data+into+Insight+✨;☕+Caffeinated+Creativity+Always" alt="Typing SVG" />
 </div>
+
 
 ---
 
