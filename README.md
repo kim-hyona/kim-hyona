@@ -1,12 +1,10 @@
--
 
 
 
-
-
-<div align="center" style="padding-top: 20px;">
-  <img src="https://readme-typing-svg.vercel.app/?font=Luckiest+Guy&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;🤖+ML+Enthusiast+%26+AI+Explorer;📊+Turning+Data+into+Insight+✨;☕+Caffeinated+Creativity+Always" alt="Typing SVG" />
+<div align="center" style="padding-top: 40px;">
+  <img src="https://readme-typing-svg.vercel.app/?font=Luckiest+Guy&size=42&pause=1000&color=FF69B4&center=true&width=850&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;🤖+ML+Enthusiast+%26+AI+Explorer;📊+Turning+Data+into+Insight+✨;☕+Caffeinated+Creativity+Always" alt="Typing SVG" />
 </div>
+
 
 
 
