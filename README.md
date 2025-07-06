@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kim-hyona/kim-hyona/main/assets/banner.png" />
-</div>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F66BB3&center=true&vCenter=true&width=500&lines=🖤+Welcome+to+Hyona's+GitHub+🖤" alt="Typing SVG" />
+</h1>
 
 <br/>
 
