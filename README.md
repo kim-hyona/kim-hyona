@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=30&pause=1000&color=F66BB3&center=true&vCenter=true&width=500&lines=🖤+Welcome+to+Hyona's+GitHub+🖤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Pacifico&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;💻+Code+with+Love+and+Coffee+☕;🌸+AI%2FML+Lover+%26+Flutter+Dev+🌸;✨+Explore.+Create.+Inspire.+✨" alt="Typing SVG" />
 </h1>
 
 
