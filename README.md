@@ -9,9 +9,9 @@
 
 ## 🌸 About Me
 
-Hi there! I'm **Hyona**, a passionate ML engineer with a love for turning raw data into meaningful stories.  
-I enjoy designing intuitive applications, especially ones that make a social impact.  
-Whether it's anomaly detection or a senior-friendly app, I’m always up for a challenge. 🧠💖
+Hi! I'm Hyona, an aspiring ML engineer who loves discovering meaningful insights from data.
+I enjoy designing intuitive user experiences and especially care about projects that create social value.
+From anomaly detection to senior-friendly apps, I'm always excited to learn, grow, and take on new challenges! 🧠💖
 
 ---
 
