@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Pacifico&size=35&pause=1000&color=FF69B4&center=true&vCenter=false&width=600&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;💻+Code+with+Love+and+Coffee+☕;🌸+AI%2FML+Lover+%26+Flutter+Dev+🌸;✨+Explore.+Create.+Inspire.+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Baloo+2&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🖤+Welcome+to+Hyona's+GitHub+🩷;💻+Code+with+Love+and+Coffee+☕;🌸+AI%2FML+Lover+%26+Flutter+Dev+🌸;✨+Explore.+Create.+Inspire.+✨" alt="Typing SVG" />
 </h1>
+
 
 
 <br/>
