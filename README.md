@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Hyona's GitHub Banner" width="600"/>
-</p>
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Welcome to Hyona's GitHub Banner" />
+</div>
 
+<br/>
 
 <p align="center">
-  💡 I'm a data enthusiast passionate about machine learning, mobile app development, and explainable AI.
-  <br>
-  📌 This is my space to share projects, experiments, and growth as a developer.
+  💡 I'm Hyona, a developer passionate about machine learning, mobile app development, and explainable AI.<br>
+  📌 This is my GitHub space for sharing projects, experiments, and continuous growth.
 </p>
 
 ---
